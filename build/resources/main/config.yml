@@ -1,0 +1,8 @@
+world-blacklist:
+  # Set to true to enable the world blacklist feature
+  enabled: false
+  # List of world names where the plugin commands are disabled
+  worlds:
+    - "world_nether"
+    - "world_the_end"
+    # Add more world names as needed

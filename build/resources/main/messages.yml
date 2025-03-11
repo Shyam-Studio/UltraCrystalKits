@@ -1,0 +1,64 @@
+messages:
+  player_equipped_kit:
+    text: '&7🗡 <player> loaded Kit <kit> [⚓ <distance>m away]'
+    type: chat
+
+  enderchest_loaded:
+    text: '&7🗡 <player> loaded Ender Chest <number> [⚓ <distance>m away]'
+    type: chat
+
+  kit_not_found:
+    text: '&cKit <kit> does not exist'
+    type: chat
+
+  enderchest_not_found:
+    text: '&cEnder Chest <number> does not exist'
+    type: chat
+
+  player_only:
+    text: '&cOnly players can use this command'
+    type: chat
+
+  kit_room_opened:
+    text: '&7<player> opened the kitroom'
+    type: chat
+
+  kit_saved:
+    text: '&aKit <kit> has been saved'
+    type: action_bar
+
+  kit_deleted:
+    text: '&cKit <kit> has been deleted'
+    type: chat
+
+  preset_kit_claimed:
+    text: '&a<player> claimed the preset kit!'
+    type: chat
+
+  preset_kit_success:
+    text: '&aYou have received the preset kit!'
+    type: chat
+
+  preset_kit_created:
+    text: '&aPreset kit has been created from your inventory'
+    type: action_bar
+
+  no_permission:
+    text: '&cYou do not have permission to use this command'
+    type: chat
+
+  preset_kit_not_found:
+    text: '&cNo preset kit available.'
+    type: chat
+
+  refill_success:
+    text: '&aRefilled your inventory with <category> items'
+    type: chat
+
+  invalid_category:
+    text: '&cInvalid category "<category>". Using default category.'
+    type: chat
+
+  kit_menu_opened:
+    text: '&7<player> opened the kit menu'
+    type: chat
